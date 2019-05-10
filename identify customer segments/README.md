@@ -22,7 +22,7 @@ as well as to practice and demonstrate clustering techniques.
 
 - Identify_Customer_Segments.html
 - Identify_Customer_Segments.ipynb
-- Data Set : 
+- Data Set : <a href = 'https://github.com/AbdulrahmanQu/Udacity_Projects_DataScientist/blob/master/identify%20customer%20segments/Udacity_CUSTOMERS_Subset.csv'>1</a>
 
 ## Acknowledgements
 
