@@ -45,13 +45,13 @@ python ./predict.py ./flowers/valid/5/image_05192.jpg ./checkpoint.pth --gpu
 
 Review:
 <br>
-<a href = 'https://ikhlestov.github.io/pages/machine-learning/pytorch-notes/' >Pytorch Notes</a>
+<a href ='https://ikhlestov.github.io/pages/machine-learning/pytorch-notes/' >Pytorch Notes</a>
 <br>
-<a href = ' https://arxiv.org/pdf/1609.08764.pdf' > Data Augmentation </a>
+<a href ='https://arxiv.org/pdf/1609.08764.pdf'>Data Augmentation</a>
 <br>
-<a href = 'https://machinelearningmastery.com/transfer-learning-for-deep-learning/'> Transfer Learning_1 </a>
+<a href ='https://machinelearningmastery.com/transfer-learning-for-deep-learning/'> Transfer Learning_1 </a>
 <br>
-<a href = 'http://cs231n.github.io/transfer-learning/'>Transfer Learning_2 </a>
+<a href ='http://cs231n.github.io/transfer-learning/'>Transfer Learning_2 </a>
 
 Specific to this flower classification problem:
 
