@@ -4,5 +4,5 @@
 
 <!--<a href="Data Scientist nanodegree.pdf"
      style="float: left; margin-right: 10px;"></a>-->
-[embed]https://github.com/AbdulrahmanQu/Udacity_Projects_DataScientist/blob/master/Data Scientist nanodegree.pdf[/embed]
+[embed]Data Scientist nanodegree.pdf[/embed]
 
