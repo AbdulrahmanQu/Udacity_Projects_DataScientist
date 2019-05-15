@@ -4,9 +4,5 @@
 
 <!--<a href="Data Scientist nanodegree.pdf"
      style="float: left; margin-right: 10px;"></a>-->
-     
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/pdf/Data Scientist nanodegree.pdf", "#example1");</script>
-
-<div id="example1"></div>
+[embed]https://github.com/AbdulrahmanQu/Udacity_Projects_DataScientist/blob/master/Data Scientist nanodegree.pdf[/embed]
 
