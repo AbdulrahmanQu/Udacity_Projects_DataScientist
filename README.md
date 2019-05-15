@@ -1,9 +1,6 @@
 # Udacity_Projects_DataScientist
 
 
-<style>
-.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
-</style>
 
 <!--<a href="Data Scientist nanodegree.pdf"
      style="float: left; margin-right: 10px;"></a>-->
