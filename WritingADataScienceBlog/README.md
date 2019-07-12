@@ -27,3 +27,4 @@ and my current goal was to get these information:
 > * 4.What is the average age of programmers in different countries each year? 
 > * 5.What is the average IT experience of programmers in different countries each year?  
 > * 6.What is the average salary of the participants in different countries each year? 
+
