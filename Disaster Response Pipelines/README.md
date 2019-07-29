@@ -13,7 +13,7 @@ i've added them in requirements.txt
 
 ## 2. Project Motivation
 
-in this project i'm creating a wep app that analyse the input from the end user and process the key words shuch as help , food ..etc that can help in the disaster events and send it to the right agency  by categorising the key words. this project is done as a project to Udacity nano degree program 
+In this project i'm creating a wep app that analyse the input from the end user and process the key words shuch as help , food ..etc that can help in the disaster events and send it to the right agency  by categorising the key words. this project is done as a project to Udacity nano degree program 
 
 
 this is a sample of the results.
