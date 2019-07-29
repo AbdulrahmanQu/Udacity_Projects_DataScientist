@@ -17,9 +17,9 @@ in this project i'm creating a wep app that analyse the input from the end user 
 
 
 this is a sample of the results.
-![disaster graph2](results.jpg)
+![disaster graph2](results.png)
 and this is the real application :
-![disaster graph1](realapp.jpg)
+![disaster graph1](realapp.png)
 
 
 ## 3. File Descriptions
