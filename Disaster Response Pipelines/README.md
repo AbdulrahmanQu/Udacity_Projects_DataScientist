@@ -38,7 +38,7 @@ and this is the real application :
 	- disaster_messages.csv
 	- process_data.py
 - \models
-	- classifier.pkl : It is too big(about 2GB size)  to be included in the github.  To run ML pipeline that trains classifier and saves the trained model to classifier.pkl
+	- classifier.pkl
 	- train_classifier.py
 
 ## 4.Instructions:
