@@ -67,4 +67,4 @@ The list below represents main libraries and its objects for the project.
 - [keras](https://keras.io/) (Convolutional Neural Network)
 - [OpenCV](https://opencv.org/) (Human Face Detection)
 - [Matplotlib](https://matplotlib.org/) (Plot Images)
-- [Numpy](http://www.numpy.org/) (^^)
+- [Numpy](http://www.numpy.org/)
