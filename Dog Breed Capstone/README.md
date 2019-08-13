@@ -51,7 +51,9 @@ If you are using a Windows machine, you are encouraged to use [7zip](http://www.
 - Step 7: Test Your Algorithm
 
 ### Main CNN Model
-I had tried to imitate VGG-16 in the step 4 and I used Xception for the transfer learning in step 5
+
+- VGG-16 step 4
+- Xception transfer learning in step 5
 
 ### Libraries
 
