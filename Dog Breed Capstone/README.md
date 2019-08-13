@@ -68,3 +68,8 @@ The list below represents main libraries and its objects for the project.
 - [OpenCV](https://opencv.org/) (Human Face Detection)
 - [Matplotlib](https://matplotlib.org/) (Plot Images)
 - [Numpy](http://www.numpy.org/)
+
+
+# Blog 
+
+https://medium.com/@a.qunaibit/dog-breed-classifier-f291fb778c12
