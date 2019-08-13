@@ -24,8 +24,6 @@ cd  Udacity_Projects_DataScientist/Dog Breed Capstone
 jupyter notebook - > dog_app.ipynb
 
 ```
-
-=    ```
 3. all the datasets are ready to be downloaded from the notebook, thus it may take hours to be fully ready with the files needed.
 
 or
