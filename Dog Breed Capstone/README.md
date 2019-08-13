@@ -14,6 +14,12 @@ this project is a final project for Udacity's nano degree data scientist progrem
 
 ### Instructions
 
+```    
+Udacity's original repo is here https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification
+
+```
+
+
 1. Clone the repository and navigate to the downloaded folder.
 ```    
 git clone https://github.com/AbdulrahmanQu/Udacity_Projects_DataScientist.git
