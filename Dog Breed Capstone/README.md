@@ -69,4 +69,4 @@ The list below represents main libraries and its objects for the project.
 
 # Blog 
 
-https://medium.com/@a.qunaibit/dog-breed-classifier-f291fb778c12
+https://medium.com/@a.qunaibit/dog-breed-d8334c0772ab
