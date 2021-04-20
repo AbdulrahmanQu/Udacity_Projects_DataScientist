@@ -75,7 +75,7 @@ pkginfo==1.4.2
 plotly==3.3.0
 pluggy==0.8.0
 prompt-toolkit==1.0.15
-py==1.5.3
+py==1.10.0
 pycountry==18.5.26
 pycparser==2.18
 Pygments==2.2.0
