@@ -79,7 +79,7 @@ py==1.5.3
 pycountry==18.5.26
 pycparser==2.18
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pyreadline==2.1
