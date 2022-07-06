@@ -27,7 +27,7 @@ future==0.16.0
 gensim==3.5.0
 h5py==2.8.0
 hmmlearn==0.2.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 image==1.5.20
 ipykernel==4.6.1
